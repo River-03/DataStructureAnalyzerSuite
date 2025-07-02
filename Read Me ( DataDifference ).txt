@@ -1,0 +1,25 @@
+# Data Structure Comparison Tool
+
+## Description
+This Java program compares two data structures (JSON or XML) and calculates the edit distance between them. It considers differences in names, values, and structural organization.
+
+---
+
+## Features
+- Supports both JSON and XML formats
+- Calculates precise edit distance
+- Compares by name, value, and structure
+- Sorts object properties alphabetically
+- Handles complex nested structures
+
+---
+
+## Sample Input / Output
+
+### Example Input:
+{"name":"John","age":30}
+---
+{"name":"Ali","age":30}
+
+### Example Output:
+1

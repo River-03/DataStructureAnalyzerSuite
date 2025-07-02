@@ -1,0 +1,23 @@
+# XML Structure Analyzer
+
+## Description
+This Java program parses an XML document and counts structural elements such as tags and arrays. It identifies repeated tags as arrays.
+
+---
+
+## Features
+- Accepts valid XML as input
+- Parses XML structure
+- Counts XML elements
+- Identifies arrays based on repeated tags
+- Validates proper tag closure
+
+---
+
+## Sample Input / Output
+
+### Example Input:
+<person><name>John</name><age>30</age><address><city>Tehran</city></address></person>
+
+### Example Output:
+4

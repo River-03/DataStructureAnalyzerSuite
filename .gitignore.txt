@@ -1,0 +1,12 @@
+# .gitignore
+
+*.class
+__pycache__
+*.pyc
+*.log
+.DS_Store
+.vscode/
+.idea/
+/target/
+/out/
+.env

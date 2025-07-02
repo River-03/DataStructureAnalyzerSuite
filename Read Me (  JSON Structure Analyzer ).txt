@@ -1,0 +1,23 @@
+# JSON Structure Analyzer
+
+## Description
+This Java program analyzes the structure of a JSON input and counts elements. It validates the JSON format and handles nested structures.
+
+---
+
+## Features
+- Accepts valid JSON as input
+- Counts all JSON elements (objects, arrays, values)
+- Validates JSON structure
+- Handles errors gracefully
+- Simple command-line interface
+
+---
+
+## Sample Input / Output
+
+### Example Input:
+{"name":"John","age":30,"address":{"city":"Tehran","zip":"12345"}}
+
+### Example Output:
+3

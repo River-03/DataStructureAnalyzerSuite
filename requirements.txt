@@ -1,0 +1,11 @@
+# Requirements
+
+## Java Version
+- Java 8 or higher
+
+## Libraries
+- Standard Java SDK only (no external dependencies)
+
+## Tools
+- IDE (IntelliJ IDEA, Eclipse, or similar) or VS Code
+- Terminal or Command Line Interface
